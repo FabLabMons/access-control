@@ -1,0 +1,24 @@
+@startuml
+left to right direction
+
+:Membre FabLab: as Membre
+:Permanent FabLab: as Permanent
+:FabLab Manager: as Manager
+:Secrétaire FabLab: as Secrétaire
+
+rectangle "Système contrôle d'accès" {
+    (Compléter fiche de présence) as (FichePrésence)
+    (Encoder fiches formations) as (FichesFormation)
+    (Encoder factures) as (Facture)
+    (Vérifier paiements) as (Paiement)
+    (Réserver une machine) as (Réservation)
+    (Valider une réservation) as (ValiderRéservation)
+}
+
+Membre --> (FichePrésence)
+Membre --> (Réservation)
+Permanent --> (FichesFormation)
+(Facture) <-- Secrétaire
+(Paiement) <-- Secrétaire
+Manager --> (ValiderRéservation)
+@enduml
