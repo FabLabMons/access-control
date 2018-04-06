@@ -1,0 +1,16 @@
+# Compte Rendu
+
+Cette semaine j’ai commencé une recherche sur un sujet le General Data Protection Regulation (GDPR), c’est un sujet très important et il consiste à harmoniser la façon dont sont traitées les données personnelles en Europe afin de protéger les libertés et droits fondamentaux des personnes physiques au sein de l’Union européenne.
+De plus, lorsqu’on parle des données personnelles telle que l’identité, finance, comportement, relation et d’autres. Ce qui m’a poussé à poser la question c’est quoi les données personnelles qu’on a dans le cadre du FabLab et la réponse sur cette question je l’ai eu grâce aux responsables du FabLab sans oublié les utilisateurs comme les étudiants et les intervenant extérieurs. Alors nos données personnelles se définissent par : le nom, le prénom, le numéro de téléphone, l’adresse physique, l’email et la statut professionnelle.et ses données m’ont penché à classer ses données en entité et attribut en ajoutant ce qui manque telle que le consommable.
+En effet, dès que je me suis lancé sur cette voie je me suis rendu compte que les données que j’avais au premiers temps n’étaient pas profond, mais grâce à cette méthode ; en divisant les données entre les entités et les attributs ; j’ai trouvé pas mal de données, commençant par :
+## Les entités :
+Utilisateurs, Machines, présence, paiement, facturation,
+## Les attributs :
+Nom, prénom, adresse physique, email, numéro de téléphone, le consommable, le temps d’utilisation, combien de personne sur la machine, les personnes qui paye en liquide.
+
+Donc, ces informations concernent les données, ce qui concerne le planning des interviews j’ai ajouté monsieur FILIPPI puisque j’ai eu l’occasion de faire une interview avec lui. L’interview il était basé sur l’état actuelle, comment on peut améliorer le système, et il m’a proposé des solutions concernant le projet.
+
+C’était ça pour cette semaine et cette après-midi je vais faire connaissance avec le terme de use case et je vais finaliser le planning des interviews.
+
+
+
