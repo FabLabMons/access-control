@@ -58,6 +58,40 @@ https://www.eclipse.org/downloads/
 # Création de projet Eclipse
 ## On commence par création de projet en cliquant sur l'icône de google cloud
 ![](images/20.PNG)
+## on donne un nom a notre projet et on défini le java package 'com.gonevertical.server.nom du projet'
+![](images/32.PNG)
+## Ensuite en clique sur open perspective dans le coin à droite et en sélectionne 'java(default)'
+![](images/34.PNG)
+## Et voilà notre projet 
+![](images/35.PNG)
+## Voilà l'endroit pour coder le java
+![](images/36.PNG)
+## Voilà où on code le code HTML
+![](images/37.PNG)
+## Et voilà où on défini notre page HTML
+![](images/38.PNG)
+## Après on fait une clique droite et on sélectionne 'Debug As' et on choisi 'App Engine'
+![](images/39.PNG)
+## Voilà le résultat 
+![](images/40.PNG)
+## Après pour déployer le proget on fait une clique droite et on sélectionne 'Deploy to App Engine Standard'
+![](images/41.PNG)
+## Ensuite en clique sur Create an App Engine application
+![](images/43.PNG)
+## On sélectionne la pays  ensuite on choisi 'App Engine' dans le menu 'Google Cloud'
+![](images/44.PNG)
+## Ensuite on choisi le language "Java" dans notre cas 
+![](images/45.PNG)
+## Ensuite on suit la procédure 
+![](images/46.PNG)
+## A la fin vous aurez cette page 
+![](images/47.PNG)
+## Et maintenant on peut deployer notre projet 
+![](images/42.PNG)
+## Et voilà les résultats 
+![](images/48.PNG)
+## maintenant depuis n'importe quelle pc on va rouver la même page sur un lien fixe https://tuto-203311.appspot.com/(tuto-203311 c'est notre identifiant )
+![](images/49.PNG)
 
 
 
