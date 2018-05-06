@@ -14,6 +14,7 @@ https://cloud.google.com/?hl=fr
 
 ![](images/3.PNG) 
 
-## Après on fait la création de notre projet 
-
+## Après on fait la création de notre projet on cliquant sur l'icône qui se trouve à droite de Google cloud platforme
 ![](images/4.PNG)
+## Ensuite en clique sur l'icône "+"
+![](images/5.PNG)
