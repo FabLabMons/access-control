@@ -56,9 +56,8 @@ https://www.eclipse.org/downloads/
 ## Après si en regarde dans les préférences on va trouver ce résultat, et il faut cocher 'Choose SDK' et 'Share anonymouse' 
 ![](images/Capture.PNG)
 # Création de projet Eclipse
-
- 
-
+## On commence par création de projet en cliquant sur l'icône de google cloud
+![](images/20.PNG)
 
 
 
