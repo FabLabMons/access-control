@@ -18,3 +18,11 @@ https://cloud.google.com/?hl=fr
 ![](images/4.PNG)
 ## Ensuite en clique sur l'icône "+"
 ![](images/5.PNG)
+## En choisi le nom projet en peut aussi changer l'ID du projet et à la fin cliquez sur créer
+![](images/6.PNG)
+## En voie après que le projet était créé
+## en sélectinne notre projet et en clique sur ouvrir
+![](images/7.PNG)
+## Et voilà on est dans notre projet
+![](images/8.PNG)
+# installation de google cloud sur Eclipse 
