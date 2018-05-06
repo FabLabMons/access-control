@@ -92,9 +92,7 @@ https://www.eclipse.org/downloads/
 ![](images/48.PNG)
 ## maintenant depuis n'importe quelle pc on va rouver la même page sur un lien fixe https://tuto-203311.appspot.com/(tuto-203311 c'est notre identifiant )
 ![](images/49.PNG)
-
-
-
+## Vous avez un autre projet dans ce dossier avec les pages HTML et le programme JAVA et une page css 
 
 
 
